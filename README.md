@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Hi%20Kaushik%20here!&animation=fadeIn&type=waving&color=gradient&height=100)
 
 ## 🙋‍♂️ About Me
-- 👨‍🎓 I'm a Sophomore undergrad at the Electrical Department, IIT Jodhpur.
+- 👨‍🎓 I'm a Pre-Final undergrad at the Electrical Department, IIT Jodhpur.
 - 🌱 I’m currently learning ML, MLOps, Go.
 - 📫 How to reach me: sallakaushik@gmail.com or b22ee058@iitj.ac.in
 - 👯 I’m looking to collaborate on open-source projects.
