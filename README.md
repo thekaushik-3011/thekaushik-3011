@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 - 👨‍🎓 I'm a Final year undergrad at the Electrical Department, IIT Jodhpur.
-- 🌱 I’m currently learning Low Level Programming, digital VLSI, Machine Learning
+- 🌱 I’m currently learning Low Level Programming, Digital VLSI and Machine Learning
 - 📫 How to reach me: sallakaushik@gmail.com or b22ee058@iitj.ac.in
 - 👯 I’m looking to collaborate on open-source projects.
 
